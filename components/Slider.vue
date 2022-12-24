@@ -40,68 +40,55 @@
     <!-- Inner -->
     <div class="carousel-inner relative w-full overflow-hidden">
       <!-- Single item -->
+
       <div class="carousel-item active relative float-left w-full">
-        <img
-          src="shirinitweleve.png"
-          class="block w-full"
-          alt="Motorbike Smoke"
-        />
-        <div class="carousel-caption hidden md:block absolute text-center">
-          <h5 class="text-xl">با قناد باشی هرروزت شیرین کن</h5>
-          <p class="text-xl">be sweet with condition every day</p>
-          <p class="text-xl">
-            شیرینی لحظات شادتان رابه ما بسپارید.فروشگاه کیک آنلاین قنادباشی
-            بهترین و
-          </p>
-          <p class="text-xl">
-            به روزترین سامانه سفارش انواع کیک تولد،کیک تولد دخترانه کیک تولد
-          </p>
-          <p style="direction: rtl">
-            پسرانه،کیک لاکچری،کیک تصویری،کیک مناسبتی و...
-          </p>
-        </div>
+        <img src="slider.png" class="block w-full" alt="Motorbike Smoke" />
+
+        <div
+          class="
+            carousel-caption
+            bottom-96
+            right-10
+            text-right
+            hidden
+            md:block
+            absolute
+          "
+        ></div>
       </div>
 
       <!-- Single item -->
       <div class="carousel-item relative float-left w-full">
-        <img src="shirinitwo.png" class="block w-full" alt="Mountaintop" />
-        <div class="carousel-caption hidden md:block absolute text-center">
-          <h5 class="text-xl">با قناد باشی هرروزت شیرین کن</h5>
-          <p class="text-xl">be sweet with condition every day</p>
-          <p class="text-xl">
-            شیرینی لحظات شادتان رابه ما بسپارید.فروشگاه کیک آنلاین قنادباشی
-            بهترین و
-          </p>
-          <p class="text-xl">
-            به روزترین سامانه سفارش انواع کیک تولد،کیک تولد دخترانه کیک تولد
-          </p>
-          <p style="direction: rtl">
-            پسرانه،کیک لاکچری،کیک تصویری،کیک مناسبتی و...
-          </p>
-        </div>
+        <img src="slider.png" class="block w-full" alt="Motorbike Smoke" />
+
+        <div
+          class="
+            carousel-caption
+            bottom-96
+            right-10
+            text-right
+            hidden
+            md:block
+            absolute
+          "
+        ></div>
       </div>
 
       <!-- Single item -->
       <div class="carousel-item relative float-left w-full">
-        <img
-          src="shrinifour.png"
-          class="block w-full"
-          alt="Woman Reading a Book"
-        />
-        <div class="carousel-caption hidden md:block absolute text-center">
-          <h5 class="text-xl">با قناد باشی هرروزت شیرین کن</h5>
-          <p>be sweet with condition every day</p>
-          <p class="text-xl">
-            شیرینی لحظات شادتان رابه ما بسپارید.فروشگاه کیک آنلاین قنادباشی
-            بهترین و
-          </p>
-          <p class="text-xl">
-            به روزترین سامانه سفارش انواع کیک تولد،کیک تولد دخترانه کیک تولد
-          </p>
-          <p class="text-xl" style="direction: rtl">
-            پسرانه،کیک لاکچری،کیک تصویری،کیک مناسبتی و...
-          </p>
-        </div>
+        <img src="slider.png" class="block w-full" alt="Motorbike Smoke" />
+
+        <div
+          class="
+            carousel-caption
+            bottom-96
+            right-10
+            text-right
+            hidden
+            md:block
+            absolute
+          "
+        ></div>
       </div>
     </div>
     <!-- Inner -->

@@ -79,7 +79,7 @@
           "
         >
           <li class="nav-item p-2">
-            <a
+            <nuxt-link
               class="
                 nav-link
                 text-gray-500
@@ -87,8 +87,8 @@
                 focus:text-gray-700
                 p-0
               "
-              href="#"
-              >صفحه اول</a
+              to="/"
+              >صفحه اول</nuxt-link
             >
           </li>
           <li class="nav-item p-2">
@@ -204,7 +204,6 @@
                 rounded-lg
                 shadow-lg
                 mt-1
-                hidden
                 m-0
                 bg-clip-padding
                 border-none
