@@ -47,8 +47,14 @@
           alt="Motorbike Smoke"
         />
         <div class="carousel-caption hidden md:block absolute text-center">
-          <h5 class="text-xl">First slide label</h5>
-          <p>Some representative placeholder content for the first slide.</p>
+          <h5 class="text-xl">باقنادباشی هر روزت شیرین کن</h5>
+          <p class="direction">
+            شیرینی لحظات شادت به ما بسپارید.فروشگاه کیک قنادباشی بهترین و
+          </p>
+          <p class="direction">
+            به روزترین سامانه سفارش انواع کیک تولد،کیک تولد دخترانه،کیک تولد
+          </p>
+          <p class="direction">پسرانه،کیک لاکچری،کیک تصویری،مناسبتی و...</p>
         </div>
       </div>
 
@@ -56,8 +62,14 @@
       <div class="carousel-item relative float-left w-full">
         <img src="shirinitweleve.png" class="block w-full" alt="Mountaintop" />
         <div class="carousel-caption hidden md:block absolute text-center">
-          <h5 class="text-xl">Second slide label</h5>
-          <p>Some representative placeholder content for the second slide.</p>
+          <h5 class="text-xl">باقنادباشی هر روزت شیرین کن</h5>
+          <p class="direction">
+            شیرینی لحظات شادت به ما بسپارید.فروشگاه کیک قنادباشی بهترین و
+          </p>
+          <p class="direction">
+            به روزترین سامانه سفارش انواع کیک تولد،کیک تولد دخترانه،کیک تولد
+          </p>
+          <p class="direction">پسرانه،کیک لاکچری،کیک تصویری،مناسبتی و...</p>
         </div>
       </div>
 
@@ -69,8 +81,14 @@
           alt="Woman Reading a Book"
         />
         <div class="carousel-caption hidden md:block absolute text-center">
-          <h5 class="text-xl">Third slide label</h5>
-          <p>Some representative placeholder content for the third slide.</p>
+          <h5 class="text-xl">باقنادباشی هر روزت شیرین کن</h5>
+          <p class="direction">
+            شیرینی لحظات شادت به ما بسپارید.فروشگاه کیک قنادباشی بهترین و
+          </p>
+          <p class="direction">
+            به روزترین سامانه سفارش انواع کیک تولد،کیک تولد دخترانه،کیک تولد
+          </p>
+          <p class="direction">پسرانه،کیک لاکچری،کیک تصویری،مناسبتی و...</p>
         </div>
       </div>
     </div>

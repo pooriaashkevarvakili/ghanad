@@ -12,6 +12,9 @@
           xl:mr-20
           md:mr-2
           mt-10
+          2xl:block
+          xl:block
+          lg:block
           4xl:hidden
           5xl:hidden
           xs:hidden
@@ -34,6 +37,9 @@
             4xl:hidden
             5xl:hidden
             xs:hidden
+            2xl:block
+            xl:block
+            lg:block
             banner
             inline-block
             px-6

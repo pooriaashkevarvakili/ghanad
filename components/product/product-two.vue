@@ -129,7 +129,7 @@
       </div>
     </div>
     <div class="flex justify-center">
-      <div class="block w-96 h-90 p-6 max-w-sm rounded-lg shadow-lg bg-white">
+      <div class="block w-96 p-6 max-w-sm rounded-lg shadow-lg bg-white">
         <div class="flex justify-center items-center">
           <img src="shiriniten.png" />
         </div>
