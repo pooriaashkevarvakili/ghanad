@@ -7,7 +7,14 @@
     </div>
     <div>
       <div
-        class="grid 2xl:grid-cols-4 xl:grid-cols-2 lg:grid-cols-2 grid-cols-1"
+        class="
+          grid
+          gap-6
+          2xl:grid-cols-4
+          xl:grid-cols-2
+          lg:grid-cols-2
+          grid-cols-1
+        "
       >
         <div class="flex justify-center">
           <div class="rounded-lg shadow-lg bg-white max-w-lg h-80">

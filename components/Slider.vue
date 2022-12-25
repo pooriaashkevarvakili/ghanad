@@ -1,7 +1,7 @@
 <template>
   <div
     id="carouselDarkVariant"
-    class="carousel mt-4 slide carousel-fade carousel-dark relative"
+    class="carousel slide mt-5 carousel-fade carousel-dark relative"
     data-bs-ride="carousel"
   >
     <!-- Indicators -->
@@ -40,55 +40,38 @@
     <!-- Inner -->
     <div class="carousel-inner relative w-full overflow-hidden">
       <!-- Single item -->
-
       <div class="carousel-item active relative float-left w-full">
-        <img src="slider.png" class="block w-full" alt="Motorbike Smoke" />
-
-        <div
-          class="
-            carousel-caption
-            bottom-96
-            right-10
-            text-right
-            hidden
-            md:block
-            absolute
-          "
-        ></div>
+        <img
+          src="shirinithree.png"
+          class="block w-full"
+          alt="Motorbike Smoke"
+        />
+        <div class="carousel-caption hidden md:block absolute text-center">
+          <h5 class="text-xl">First slide label</h5>
+          <p>Some representative placeholder content for the first slide.</p>
+        </div>
       </div>
 
       <!-- Single item -->
       <div class="carousel-item relative float-left w-full">
-        <img src="slider.png" class="block w-full" alt="Motorbike Smoke" />
-
-        <div
-          class="
-            carousel-caption
-            bottom-96
-            right-10
-            text-right
-            hidden
-            md:block
-            absolute
-          "
-        ></div>
+        <img src="shirinitweleve.png" class="block w-full" alt="Mountaintop" />
+        <div class="carousel-caption hidden md:block absolute text-center">
+          <h5 class="text-xl">Second slide label</h5>
+          <p>Some representative placeholder content for the second slide.</p>
+        </div>
       </div>
 
       <!-- Single item -->
       <div class="carousel-item relative float-left w-full">
-        <img src="slider.png" class="block w-full" alt="Motorbike Smoke" />
-
-        <div
-          class="
-            carousel-caption
-            bottom-96
-            right-10
-            text-right
-            hidden
-            md:block
-            absolute
-          "
-        ></div>
+        <img
+          src="shirinithree.png"
+          class="block w-full"
+          alt="Woman Reading a Book"
+        />
+        <div class="carousel-caption hidden md:block absolute text-center">
+          <h5 class="text-xl">Third slide label</h5>
+          <p>Some representative placeholder content for the third slide.</p>
+        </div>
       </div>
     </div>
     <!-- Inner -->
