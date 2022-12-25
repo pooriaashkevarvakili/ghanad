@@ -23,20 +23,6 @@
         class="carousel slide relative"
         data-bs-ride="carousel"
       >
-        <div class="carousel-inner relative w-full overflow-hidden">
-          <div class="carousel-item active relative left-12 float-left w-full">
-            <product-one />
-          </div>
-          <div class="carousel-item left-12 relative float-left w-full">
-            <product-two />
-          </div>
-          <div class="carousel-item left-12 relative float-left w-full">
-            <product-three />
-          </div>
-          <div class="carousel-item relative left-12 float-left w-full">
-            <product-four />
-          </div>
-        </div>
         <button
           class="
             carousel-control-prev

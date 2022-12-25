@@ -170,6 +170,7 @@
         </div>
       </div>
     </div>
+    <div class="text-center">این طراحی توسط خانم آتیه ملکی طراحی شده است</div>
   </footer>
 </template>
 

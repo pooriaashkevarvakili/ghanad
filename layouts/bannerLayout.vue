@@ -121,7 +121,7 @@
                   py-0
                   px-1.5
                 "
-                >1</span
+                >{{ count }}</span
               >
             </nuxt-link>
           </div>
@@ -139,7 +139,14 @@
 </template>
 
 <script>
-export default {};
+import { mapGetters } from "vuex";
+export default {
+  computed: {
+    ...mapGetters({
+      count: "cart/count",
+    }),
+  },
+};
 </script>
 
 <style>

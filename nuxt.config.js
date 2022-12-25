@@ -1,7 +1,8 @@
 export default {
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'portfolio-shopping-two',
+    title: 'قناد باشی',
     htmlAttrs: {
       lang: 'en'
     },
@@ -37,8 +38,7 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     '@nuxt/postcss8',
-    '@nuxtjs/composition-api/module',
-    '@pinia/nuxt',
+
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -55,6 +55,7 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+
     postcss: {
       plugins: {
         tailwindcss: {},
