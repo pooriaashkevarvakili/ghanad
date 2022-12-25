@@ -232,7 +232,7 @@
                 </button>
               </div>
             </div>
-            <div>{{ totalAmount }}</div>
+            <div class="mt-2 text-red-400">{{ totalAmount }}</div>
           </div>
         </div>
       </div>
