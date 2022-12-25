@@ -11,7 +11,7 @@
       4xl:grid-cols-1
       5xl:grid-cols-1
       xs:grid-cols-1
-      2xl:mt-52
+      2xl:mt-2
       xl:mt-20
       lg:mt-2
       md:mt-2

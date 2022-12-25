@@ -1,8 +1,23 @@
 <template>
   <div>
-    <div class="flex justify-end mr-14 mt-8 text-2xl">محصولات روز</div>
+    <div
+      class="
+        flex
+        justify-end
+        2xl:mr-14
+        xl:mr-14
+        sm:mr-56
+        md:mr-44
+        4xl:mr-48
+        5xl:mr-36
+        mt-8
+        text-2xl
+      "
+    >
+      محصولات روز
+    </div>
 
-    <div class="bg-pink-300 w-full h-screen mt-4">
+    <div class="bg-pink-300 p-10 w-full rounded-xl mt-4">
       <div
         id="carouselExampleControls"
         class="carousel slide relative"

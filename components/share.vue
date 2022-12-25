@@ -1,5 +1,23 @@
 <template>
-  <div class="flex mt-5">
+  <div
+    class="
+      2xl:flex
+      xl:flex
+      lg:flex
+      mt-5
+      md:block
+      sm:block
+      4xl:block
+      5xl:block
+      xs:block
+      2xl:ml-0
+      xl:ml-0
+      md:ml-32
+      sm:ml-32
+      4xl:ml-32
+      5xl:ml-36
+    "
+  >
     <div class="w-2/12">
       <div>
         <img src="share.png" class="ml-52" alt="" />

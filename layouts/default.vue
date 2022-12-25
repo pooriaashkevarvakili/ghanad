@@ -1,7 +1,38 @@
 <template>
   <div>
-    <div class="flex justify-between px-10 p-3">
-      <div class="flex">
+    <div
+      class="
+        2xl:flex
+        xl:flex
+        lg:flex
+        md:block
+        sm:block
+        4xl:block
+        5xl:block
+        xs:block
+        justify-between
+        px-10
+        2xl:ml-0
+        xl:ml-0
+        md:ml-64
+        sm:ml-52
+        5xl:ml-24
+        4xl:ml-36
+        p-3
+      "
+    >
+      <div
+        class="
+          2xl:flex
+          xl:flex
+          lg:flex
+          md:block
+          sm:block
+          4xl:block
+          5xl:block
+          xs:block
+        "
+      >
         <nuxt-link
           to="/login"
           class="
@@ -10,7 +41,13 @@
             py-2.5
             bg-red-300
             text-white
+            2xl:ml-0
+            xl:ml-0
+            md:ml-12
+            4xl:ml-10
+            sm:ml-12
             font-medium
+            5xl:ml-4
             text-xs
             leading-tight
             uppercase
@@ -24,11 +61,27 @@
             ease-in-out
           "
         >
-          <div class="mt-3">ورود/ثبت نام</div>
+          <div class="2xl:mt-3 xl:mt-3">ورود/ثبت نام</div>
         </nuxt-link>
         <div class="ml-3 mt-4">
-          <div class="flex">
-            <div>شماره تماس(09301916023)</div>
+          <div
+            class="
+              2xl:flex
+              xl:flex
+              md:block
+              2xl:ml-0
+              xl:ml-0
+              sm:ml-8
+              4xl:ml-12
+              md:ml-20
+              5xl:ml-10
+            "
+          >
+            <div
+              class="2xl:ml-0 xl:ml-0 5xl:-ml-10 md:-ml-20 sm:-ml-20 4xl:-ml-20"
+            >
+              شماره تماس(09301916023)
+            </div>
             <div
               class="
                 ml-2
@@ -77,7 +130,11 @@
         </div>
       </div>
       <div>
-        <img class="h-16" src="../static/logoone.png" alt="" />
+        <img
+          class="h-16 sm:ml-2 4xl:ml-2 2xl:ml-0 xl:ml-0 md:ml-10"
+          src="../static/logoone.png"
+          alt=""
+        />
       </div>
     </div>
     <Header />

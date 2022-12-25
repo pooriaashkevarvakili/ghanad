@@ -11,7 +11,7 @@
       4xl:grid-cols-1
       5xl:grid-cols-1
       xs:grid-cols-1
-      2xl:mt-52
+      2xl:mt-2
       xl:mt-20
       lg:mt-2
       md:mt-2
@@ -22,7 +22,7 @@
     "
   >
     <div class="flex justify-center">
-      <div class="block w-96 h-90 p-6 max-w-sm rounded-lg shadow-lg bg-white">
+      <div class="block w-96 p-6 max-w-sm rounded-lg shadow-lg bg-white">
         <div class="flex justify-center items-center">
           <img src="shirinisix.png" />
         </div>
@@ -129,7 +129,7 @@
       </div>
     </div>
     <div class="flex justify-center">
-      <div class="block w-96 p-6 max-w-sm rounded-lg shadow-lg bg-white">
+      <div class="block w-96 h-90 p-6 max-w-sm rounded-lg shadow-lg bg-white">
         <div class="flex justify-center items-center">
           <img src="shiriniten.png" />
         </div>

@@ -14,14 +14,35 @@
           "
         >
           <div class="md:w-8/12 lg:w-6/12 md:mb-0">
-            <div class="active relative float-left w-full">
+            <div class="active relative w-full">
               <img src="nanone.png" alt="" />
-              <div class="carousel-caption top-3 md:block absolute text-center">
-                <h5 class="text-xl relative right-24">
+              <div class="carousel-caption top-3 absolute text-center">
+                <h5
+                  class="
+                    2xl:text-xl
+                    xl:text-xl
+                    md:text-sm
+                    relative
+                    2xl:right-24
+                    xl:right-24
+                    md:-right-10
+                  "
+                >
                   طرز تهیه کیک ساده خانگی به صورت مرحله به مرحله وبسیار
                 </h5>
 
-                <h5 style="direction: rtl" class="text-xl ml-44">
+                <h5
+                  style="direction: rtl"
+                  class="
+                    2xl:text-xl
+                    xl:text-xl
+                    md:text-sm
+                    relative
+                    2xl:-right-20
+                    xl:-right-20
+                    md:-right-44
+                  "
+                >
                   خوشمزه و...
                 </h5>
                 <button
@@ -41,7 +62,10 @@
                     transition
                     duration-150
                     ease-in-out
-                    ml-40
+                    relative
+                    2xl:-right-20
+                    xl:-right-20
+                    md:-right-40
                   "
                 >
                   ادامه آموزش
@@ -51,11 +75,32 @@
             <div class="active relative mt-5 float-left w-full">
               <img src="shirinithree.png" alt="" />
               <div class="carousel-caption top-3 md:block absolute text-center">
-                <h5 class="text-xl relative right-24">
+                <h5
+                  class="
+                    2xl:text-xl
+                    xl:text-xl
+                    md:text-sm
+                    relative
+                    2xl:right-24
+                    xl:right-24
+                    md:-right-10
+                  "
+                >
                   طرز تهیه "گلت توت فرنگی"مجلسی باطعم بی نظیر وبه یاد
                 </h5>
 
-                <h5 style="direction: rtl" class="text-xl ml-48">ماندنی</h5>
+                <h5
+                  style="direction: rtl"
+                  class="
+                    text-xl
+                    relative
+                    2xl:-right-24
+                    xl:-right-24
+                    md:-right-44
+                  "
+                >
+                  ماندنی
+                </h5>
                 <button
                   class="
                     inline-block
@@ -73,7 +118,10 @@
                     transition
                     duration-150
                     ease-in-out
-                    ml-40
+                    2xl:-right-20
+                    relative
+                    xl:-right-20
+                    md:-right-36
                   "
                 >
                   ادامه آموزش
@@ -81,7 +129,28 @@
               </div>
             </div>
           </div>
-          <div class="md:w-8/12 lg:w-5/12 -mt-10 lg:ml-20">
+          <div
+            class="
+              2xl:block
+              xl:block
+              lg:block
+              md:hidden
+              sm:hidden
+              4xl:hidden
+              5xl:hidden
+              xs:hidden
+              lg:w-5/12
+              2xl:-mt-10
+              xl:mt-10
+              md:mt-5
+              sm:mt-5
+              4xl:mt-5
+              5xl:mt-5
+              xs:mt-5
+              relative
+              left-52
+            "
+          >
             <div class="active relative float-left w-full">
               <img src="shrinifour.png" alt="" />
               <div class="carousel-caption top-3 md:block absolute text-center">

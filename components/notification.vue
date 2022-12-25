@@ -6,11 +6,14 @@
       lg:px-10
       px-0
       mt-10
-      2xl:ml-0
-      xl:ml-0
+      2xl:ml-56
+      xl:ml-56
       lg:ml-0
-      ml-56
       flex
+      md:mr-64
+      4xl:mr-44
+      5xl:mr-32
+      sm:mr-52
       justify-between
       xl:flex
       lg:block
@@ -24,6 +27,7 @@
     <div>
       <div
         class="
+          direction
           flex
           2xl:flex
           xl:flex
@@ -34,15 +38,26 @@
           xs:block
         "
       >
-        <div class="mt-2">
-          <div class="mr-3">ارسال فوری در تهران وحومه</div>
-          <div class="ml-7">تحویل کمتراز 20دقیقه</div>
-        </div>
         <img
-          class="w-16 2xl:ml-0 xl:ml-0 lg:ml-0 ml-16 h-16"
+          class="
+            w-16
+            4xl:mr-16
+            2xl:ml-0
+            sm:mr-12
+            md:mr-12
+            xl:ml-0
+            lg:ml-0
+            ml-16
+            h-16
+            5xl:mr-12
+          "
           src="storekerovat.png"
           alt=""
         />
+        <div class="mt-2">
+          <div class="mr-1">ارسال فوری در تهران وحومه</div>
+          <div class="mr-2">تحویل کمتراز 20دقیقه</div>
+        </div>
       </div>
     </div>
     <div>
@@ -55,18 +70,30 @@
           md:block
           4xl:block
           5xl:block
+          direction
           xs:block
         "
       >
-        <div>
-          <div class="mr-3">برگزاری بهترین دوره های آموزشی</div>
-          <div class="ml-5">بیشترین تعداد هنرجو درایران</div>
-        </div>
         <img
-          class="w-16 h-16 2xl:ml-0 xl:ml-0 lg:ml-0 ml-16"
+          class="
+            w-16
+            4xl:mr-16
+            h-16
+            sm:mr-12
+            md:mr-12
+            2xl:ml-0
+            xl:ml-0
+            lg:ml-0
+            5xl:mr-12
+            ml-16
+          "
           src="roban.png"
           alt=""
         />
+        <div>
+          <div class="mr-3">برگزاری بهترین دوره های آموزشی</div>
+          <div class="mr-3">بیشترین تعداد هنرجو درایران</div>
+        </div>
       </div>
     </div>
     <div>
@@ -80,18 +107,29 @@
           4xl:block
           5xl:block
           xs:block
+          direction
         "
       >
-        <div class="mt-2">
-          <div class="mr-3">شعب متعدددرسراسرایران</div>
-          <div class="ml-7">بیش از20شعبه فعال</div>
-        </div>
-
         <img
-          class="w-16 h-16 2xl:ml-0 xl:ml-0 lg:ml-0 ml-16"
+          class="
+            w-16
+            4xl:mr-16
+            h-16
+            md:mr-12
+            sm:mr-12
+            2xl:ml-0
+            xl:ml-0
+            5xl:mr-12
+            lg:ml-0
+            ml-16
+          "
           src="home.png"
           alt=""
         />
+        <div class="mt-2">
+          <div class="mr-3">شعب متعدددرسراسرایران</div>
+          <div class="mr-3">بیش از20شعبه فعال</div>
+        </div>
       </div>
     </div>
   </div>
