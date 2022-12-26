@@ -3,8 +3,8 @@
     class="
       2xl:block
       md:hidden
-      xl:block
-      lg:block
+      xl:hidden
+      lg:hidden
       4xl:hidden
       5xl:hidden
       xs:hidden
@@ -23,8 +23,8 @@
           mt-10
           2xl:block
           md:hidden
-          xl:block
-          lg:block
+          xl:hidden
+          lg:hidden
           4xl:hidden
           5xl:hidden
           xs:hidden

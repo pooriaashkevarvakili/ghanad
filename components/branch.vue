@@ -22,7 +22,7 @@
       class="
         grid
         2xl:grid-cols-3
-        xl:grid-cols-2
+        xl:grid-cols-3
         lg:grid-cols-2
         sm:grid-cols-1
         md:gird-cols-1
