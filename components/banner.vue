@@ -14,12 +14,12 @@
       <img
         src="nan.png"
         class="
-          2xl:w-11/12
+          2xl:w-full
           xl:w-11/12
           lg:w-11/12
           md:w-full
-          2xl:mr-20
-          xl:mr-20
+          2xl:ml-60
+          xl:ml-60
           mt-10
           2xl:block
           md:hidden
@@ -32,7 +32,7 @@
         alt=""
       />
       <div class="carousel-caption top-2 md:block absolute">
-        <h5 class="text-xl 2xl:left-36 xl:left-36 md:left-2 relative">
+        <h5 class="text-xl 2xl:left-56 xl:left-56 md:left-2 relative">
           مادرتیم قناد باشی به دنبال همکار نانوا در
           <span class="text-red-400">شعبه کرج </span>هستیم اگر تجربه و مهارت
         </h5>
@@ -47,8 +47,8 @@
             2xl:block
             xl:block
             xs:hidden
-            2xl:left-36
-            xl:left-36
+            2xl:left-56
+            xl:left-56
             md:left-2
           "
         >
@@ -78,7 +78,7 @@
             duration-150
             ease-in-out
             relative
-            top-36
+            top-44
           "
         >
           ادامه مطالب
@@ -94,7 +94,7 @@ export default {};
 
 <style scoped>
 .banner {
-  right: 1300px;
+  right: 1400px;
 }
 @media only screen and (max-width: 1800px) {
   .banner {

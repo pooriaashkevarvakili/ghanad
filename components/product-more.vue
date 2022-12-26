@@ -104,8 +104,8 @@
                   />
                 </svg>
               </div>
-              <div style="direction: rtl">کیلویی</div>
-              <div class="flex justify-between">
+
+              <div class="flex justify-between mt-4">
                 <button
                   @click="addToCart(product)"
                   type="button"
@@ -135,7 +135,10 @@
                 >
                   افزودن به سبدخرید
                 </button>
-                <div>{{ product.price }}</div>
+                <div class="flex flex-col">
+                  <div>کیلویی</div>
+                  <div>{{ product.price }}</div>
+                </div>
               </div>
             </div>
           </div>
@@ -146,7 +149,7 @@
 </template>
 
 <script>
-import { mapGetters, mapActions } from "vuex";
+import { mapGetters } from "vuex";
 export default {
   computed: {
     ...mapGetters({
