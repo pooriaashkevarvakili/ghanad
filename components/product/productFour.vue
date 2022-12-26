@@ -26,9 +26,9 @@
       :key="product.id"
       class="flex justify-center"
     >
-      <div class="block w-96 h-90 p-6 max-w-sm rounded-lg shadow-lg bg-white">
+      <div class="block w-96 p-6 max-w-sm rounded-lg shadow-lg bg-white">
         <div class="flex justify-center items-center">
-          <img :src="product.img" />
+          <img class="w-32 h-32" :src="product.img" />
         </div>
         <div class="flex justify-center items-center">
           <p>{{ product.title }}</p>

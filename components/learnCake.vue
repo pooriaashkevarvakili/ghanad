@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@pooriaashkevarvakili 
-pooriaashkevarvakili
-/
-ghanad
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-ghanad/components/learnCake.vue
-@pooriaashkevarvakili
-pooriaashkevarvakili ghanad
-Latest commit 82e3f9c 1 hour ago
- History
- 1 contributor
-205 lines (200 sloc)  5.97 KB
+
 
 <template>
   <div>
@@ -43,8 +15,8 @@ Latest commit 82e3f9c 1 hour ago
             text-gray-800
           "
         >
-          <div class="md:w-8/12 lg:w-6/12 md:mb-0">
-            <div class="active relative w-full">
+          <div class="md:w-8/12 lg:w-6/12 2xl:ml-0 xl:ml-0 lg:ml-0">
+            <div class="active 2xl:ml-0 xl:ml-0 lg:ml-0 relative w-full">
               <img src="nanone.png" alt="" />
               <div class="carousel-caption top-3 absolute text-center">
                 <h5

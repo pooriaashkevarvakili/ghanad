@@ -1,5 +1,5 @@
 <template>
-  <section class="h-screen">
+  <section class="h-screen hidden 2xl:block xl:block lg:block">
     <div class="container px-6 py-12 h-full">
       <div
         class="

@@ -1,5 +1,15 @@
 <template>
-  <div>
+  <div
+    class="
+      2xl:block
+      md:hidden
+      xl:block
+      lg:block
+      4xl:hidden
+      5xl:hidden
+      xs:hidden
+    "
+  >
     <div style="direction: rtl" class="relative">
       <img
         src="nan.png"
@@ -10,9 +20,9 @@
           md:w-full
           2xl:mr-20
           xl:mr-20
-          md:mr-2
           mt-10
           2xl:block
+          md:hidden
           xl:block
           lg:block
           4xl:hidden
@@ -24,12 +34,24 @@
       <div class="carousel-caption top-2 md:block absolute">
         <h5 class="text-xl 2xl:left-36 xl:left-36 md:left-2 relative">
           مادرتیم قناد باشی به دنبال همکار نانوا در
-          <span class="text-red-400 4xl:hidden 5xl:hidden xs:hidden"
-            >شعبه کرج </span
-          >هستیم اگر تجربه و مهارت
+          <span class="text-red-400">شعبه کرج </span>هستیم اگر تجربه و مهارت
         </h5>
 
-        <h5 class="text-xl relative 2xl:left-36 xl:left-36 md:left-2">
+        <h5
+          class="
+            text-xl
+            relative
+            md:hidden
+            4xl:hidden
+            5xl:hidden
+            2xl:block
+            xl:block
+            xs:hidden
+            2xl:left-36
+            xl:left-36
+            md:left-2
+          "
+        >
           کافی دارید با مادرارتباط باشید...
         </h5>
         <button

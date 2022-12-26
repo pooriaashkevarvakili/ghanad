@@ -1,19 +1,24 @@
 <template>
   <div
     class="
+      px-0
+      mt-10
+      2xl:mr-0
+      xl:mr-0
+      lg:mr-0
       2xl:px-10
       xl:px-10
       lg:px-10
-      px-0
-      mt-10
-      2xl:ml-56
-      xl:ml-56
-      lg:ml-0
-      flex
+      md:px-0
+      sm:px-0
+      4xl:px-0
+      5xl:px-0
+      xs:px-0
       md:mr-64
       4xl:mr-44
       5xl:mr-32
       sm:mr-52
+      flex
       justify-between
       xl:flex
       lg:block

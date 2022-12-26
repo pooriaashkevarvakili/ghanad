@@ -1,5 +1,5 @@
 import shirinisix from "../../static/shirinisix.png"
-import shiriniseven from "../../static/shiriniseven.png"
+import shiriniten from "../../static/shiriniten.png"
 import shirinieight from "../../static/shirinieight.png"
 export const product = {
     namespaced: true,
@@ -18,7 +18,7 @@ export const product = {
                 name: 'کاپ کیک آلبالو',
                 title: 'cherrycupcake',
                 price: 25000,
-                img: shiriniseven
+                img: shiriniten
             },
             {
                 id: 3,

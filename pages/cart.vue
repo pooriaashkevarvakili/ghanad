@@ -38,7 +38,7 @@
       <div v-for="item in products" :key="item.id" class="flex justify-center">
         <div class="block w-96 p-6 max-w-sm rounded-lg shadow-lg bg-white">
           <div class="flex justify-center items-center">
-            <img :src="item.img" />
+            <img class="w-32 h-32" :src="item.img" />
           </div>
           <div class="flex justify-center items-center">
             <p>{{ item.title }}</p>
