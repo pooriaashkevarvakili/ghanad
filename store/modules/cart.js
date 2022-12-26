@@ -58,10 +58,12 @@ export const cart = {
         remove(state, id) {
             state.cart = state.cart.filter(cart => cart.id != id)
             updateLocalStorage(state.cart)
-        }
+        },
+
 
     },
     actions: {
+
         addToCart({ commit }, product) {
             commit('addToCart', product)
             Swal.fire({
