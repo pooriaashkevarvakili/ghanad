@@ -16,6 +16,7 @@
       md:ml-64
       sm:ml-52
       5xl:ml-24
+      xs:ml-24
       4xl:ml-36
       p-3
     "
@@ -74,10 +75,20 @@
             4xl:ml-12
             md:ml-20
             5xl:ml-10
+            xs:ml-2
           "
         >
           <div
-            class="2xl:ml-0 xl:ml-0 5xl:-ml-10 md:-ml-20 sm:-ml-20 4xl:-ml-20"
+            class="
+              2xl:ml-0
+              xs:text-sm
+              xl:ml-0
+              5xl:-ml-10
+              md:-ml-20
+              sm:-ml-20
+              4xl:-ml-20
+              xs:-ml-10
+            "
           >
             شماره تماس(09301916023)
           </div>

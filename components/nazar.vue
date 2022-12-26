@@ -1,5 +1,16 @@
 <template>
-  <div>
+  <div
+    class="
+      hidden
+      2xl:block
+      xl:block
+      lg:block
+      sm:block
+      md:block
+      4xl:block
+      5xl:block
+    "
+  >
     <div>
       <div class="direction mt-5 mr-32">نظرات ارزشمند شما</div>
     </div>

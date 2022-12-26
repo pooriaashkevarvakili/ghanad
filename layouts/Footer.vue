@@ -1,7 +1,30 @@
 <template>
   <footer class="mt-4 p-16 lg:text-left bg-gray-100 text-gray-600">
-    <div class="flex justify-between">
-      <div class="flex">
+    <div
+      class="
+        2xl:flex
+        xl:flex
+        lg:flex
+        sm:block
+        md:block
+        4xl:block
+        5xl:block
+        xs:block
+        justify-between
+      "
+    >
+      <div
+        class="
+          2xl:flex
+          xl:flex
+          lg:flex
+          sm:block
+          md:block
+          4xl:block
+          5xl:block
+          xs:block
+        "
+      >
         <img src="../static/logoone.png" alt="" />
       </div>
       <div class="">
@@ -35,7 +58,19 @@
         </nuxt-link>
       </div>
     </div>
-    <div class="flex justify-between">
+    <div
+      class="
+        2xl:flex
+        xl:flex
+        lg:flex
+        sm:block
+        md:block
+        4xl:block
+        5xl:block
+        xs:block
+        justify-between
+      "
+    >
       <div class="">
         <div class="flex">
           <svg
@@ -54,7 +89,18 @@
           </svg>
           093701916023
         </div>
-        <div class="flex">
+        <div
+          class="
+            2xl:flex
+            xl:flex
+            lg:flex
+            sm:block
+            md:block
+            4xl:block
+            5xl:block
+            xs:block
+          "
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
@@ -76,7 +122,19 @@
           </svg>
           345foundclone Drive,suite 4,charottesville,CA,12345
         </div>
-        <div class="flex space-x-2">
+        <div
+          class="
+            flex
+            2xl:space-x-2
+            xl:space-x-2
+            lg:space-x-2
+            sm:space-x-0
+            md:space-x-0
+            4xl:space-x-0
+            5xl:space-x-0
+            xs:space-x-2
+          "
+        >
           <svg
             aria-hidden="true"
             focusable="false"

@@ -17,6 +17,7 @@
       md:mr-64
       4xl:mr-44
       5xl:mr-32
+      xs:mr-24
       sm:mr-52
       flex
       justify-between
@@ -55,6 +56,7 @@
             ml-16
             h-16
             5xl:mr-12
+            xs:mr-12
           "
           src="storekerovat.png"
           alt=""
@@ -91,6 +93,7 @@
             lg:ml-0
             5xl:mr-12
             ml-16
+            xs:mr-12
           "
           src="roban.png"
           alt=""
@@ -127,6 +130,7 @@
             5xl:mr-12
             lg:ml-0
             ml-16
+            xs:mr-12
           "
           src="home.png"
           alt=""

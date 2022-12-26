@@ -1,6 +1,19 @@
 <template>
   <div>
-    <div class="flex px-20 justify-between">
+    <div
+      class="
+        flex
+        2xl:px-20
+        xl:px-20
+        lg:px-20
+        sm:px-2
+        md:px-2
+        4xl:px-2
+        5xl:px-2
+        xs:px-2
+        justify-between
+      "
+    >
       <div class="text-xl">مشاهدات همه شعبه ها</div>
       <img src="line.png" alt="" />
       <div class="text-xl">شعبه ها</div>

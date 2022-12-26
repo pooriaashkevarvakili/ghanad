@@ -7,9 +7,10 @@
         2xl:mr-14
         xl:mr-14
         sm:mr-56
-        md:mr-44
+        md:mr-64
         4xl:mr-48
         5xl:mr-36
+        xs:mr-24
         mt-8
         text-2xl
       "

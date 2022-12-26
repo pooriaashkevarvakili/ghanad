@@ -98,7 +98,20 @@
           </svg>
         </div>
 
-        <div class="flex mt-4 justify-between">
+        <div
+          class="
+            2xl:flex
+            xl:flex
+            lg:flex
+            sm:flex
+            md:flex
+            5xl:flex
+            4xl:flex
+            mt-4
+            xs:block
+            justify-between
+          "
+        >
           <div>
             <button
               @click="addToCart(product)"

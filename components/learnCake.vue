@@ -28,6 +28,14 @@
                     2xl:right-24
                     xl:right-24
                     md:-right-10
+                    xs:-top-6
+                    2xl:top-0
+                    xl:top-0
+                    lg:top-0
+                    md:top-0
+                    sm:top-0
+                    4xl:top-0
+                    5xl:top-0
                   "
                 >
                   طرز تهیه کیک ساده خانگی به صورت مرحله به مرحله وبسیار
@@ -43,6 +51,14 @@
                     2xl:-right-20
                     xl:-right-20
                     md:-right-44
+                    xs:-top-6
+                    2xl:top-0
+                    xl:top-0
+                    lg:top-0
+                    md:top-0
+                    sm:top-0
+                    4xl:top-0
+                    5xl:top-0
                   "
                 >
                   خوشمزه و...
@@ -68,6 +84,14 @@
                     2xl:-right-20
                     xl:-right-20
                     md:-right-40
+                    2xl:top-0
+                    xl:top-0
+                    lg:top-0
+                    md:top-0
+                    sm:top-0
+                    4xl:top-0
+                    5xl:top-0
+                    xs:-top-6
                   "
                 >
                   ادامه آموزش
@@ -86,6 +110,14 @@
                     2xl:right-24
                     xl:right-24
                     md:-right-10
+                    xs:-top-6
+                    2xl:top-0
+                    xl:top-0
+                    lg:top-0
+                    md:top-0
+                    sm:top-0
+                    4xl:top-0
+                    5xl:top-0
                   "
                 >
                   طرز تهیه "گلت توت فرنگی"مجلسی باطعم بی نظیر وبه یاد
@@ -98,6 +130,14 @@
                     relative
                     2xl:-right-24
                     xl:-right-24
+                    xs:-top-6
+                    2xl:top-0
+                    xl:top-0
+                    lg:top-0
+                    md:top-0
+                    sm:top-0
+                    4xl:top-0
+                    5xl:top-0
                     md:-right-44
                   "
                 >
@@ -124,6 +164,14 @@
                     relative
                     xl:-right-20
                     md:-right-36
+                    xs:-top-6
+                    2xl:top-0
+                    xl:top-0
+                    lg:top-0
+                    md:top-0
+                    sm:top-0
+                    4xl:top-0
+                    5xl:top-0
                   "
                 >
                   ادامه آموزش
